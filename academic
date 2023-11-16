@@ -1,0 +1,23 @@
+# NAME: Academic
+# AUTHOR: hang
+# REPO: 
+# UPDATED: 
+# HOST: 0
+# HOST-SUFFIX: 15
+# TOTAL: 15
+
+HOST-SUFFIX,wiley.com,Academic
+HOST-SUFFIX,acs.org,Academic
+HOST-SUFFIX,mdpi.com,Academic
+HOST-SUFFIX,tandfonline.com,Academic
+HOST-SUFFIX,webofscience.com,Academic
+HOST-SUFFIX,sciencedirect.com,Academic
+HOST-SUFFIX,rsc.org,Academic
+HOST-SUFFIX,iop.org,Academic
+HOST-SUFFIX,aip.scitation.org,Academic
+HOST-SUFFIX,science.org,Academic
+HOST-SUFFIX,scitation.org,Academic
+HOST-SUFFIX,ieee.org,Academic
+HOST-SUFFIX,scopus.com,Academic
+HOST-SUFFIX,clarivate.com,Academic
+HOST-SUFFIX,webofscience.com,Academic
